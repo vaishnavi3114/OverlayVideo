@@ -1,6 +1,6 @@
 (function(videojs) {
   'use strict';
-   videojs.registerPlugin('VideoOverlay', function() {
+   videojs.registerPlugin('OverlayVideo', function() {
       var overlayIconList = {
           sensatori: "https://content.tui.co.uk/adamtui/2019_10/10_12/b2ffa42c-bc55-4e9d-bdec-aae200d196b7/OPTI_SENSATORI.png",
           suneo: "https://content.tui.co.uk/adamtui/2019_10/10_12/cfda577d-4eee-49a8-bcba-aae200d19593/OPTI_TUI_SUNEO.png",
